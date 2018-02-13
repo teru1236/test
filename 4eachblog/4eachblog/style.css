@@ -1,0 +1,92 @@
+
+body{
+  margin:0;
+}
+header{
+  width:auto;
+  height:60px;
+  background-color:black;
+}
+
+header li{
+  float: left;
+  line-height:60px;
+  padding:0px 20px 0px 20px;
+  list-style:none;
+  color:white;
+}
+main .content{
+  width:auto;
+  height:1150px;
+  background-color:white;
+  margin:20px;
+}
+
+main .content p{
+  font-size:15px;
+  margin-left:20px;
+}
+
+main .maincontent{
+  width:65%;
+  height:100%;
+  background-color:white;
+  display:inline-block;
+  float:left;
+}
+main .image1{
+  width:auto;
+  margin:5px;
+}
+
+main h1{
+  border-bottom:3px solid black;
+  border-left:7px solid black;
+  margin:10px;
+  padding:0 10px 0 10px;
+}
+main h2{
+  border-bottom: 2px dotted gray;
+  margin-left: 40px;
+}
+main .gallery {
+  background-color:gainsboro;
+  width:100%;
+}
+main .gallerybox{
+  width:23%;
+  height:120px;
+  margin:0px 3px 0 3px;
+  display:inline-block;
+}
+
+main .gallery p{
+  clear:both;
+  margin:0;
+  padding:0;
+  text-align:center;
+}
+
+main .side{
+  width:35%;
+  height:100%;
+  float:left;
+  margin:0;
+  background-color:white;
+  display:inline-block;
+}
+
+main .side p{
+    padding-left:20px;
+}
+
+footer{
+  clear:both;
+  width:auto;
+  height:50px;
+  background-color:black;
+  margin:30px auto 0 auto;
+  color:white;
+  text-align:center;
+  padding:5px 0 5px 0;
+}
