@@ -1,0 +1,11 @@
+package com.internousdev.webproj3.action;
+
+public class TestAction {
+	private String username;
+	private String password;
+
+	public String execute(){
+		String ret = ERROR;
+		return ret;
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="パッケージ名 &apos;com.internous.webproj4.dao&apos; を &apos;com.internousdev.webproj4.dao&apos; に変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;WebproJ4&apos;&#x0D;&#x0A;- オリジナル要素: &apos;WebproJ4/src/com.internous.webproj4.dao&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;WebproJ4/src/com.internousdev.webproj4.dao&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新&#x0D;&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="パッケージ名 &apos;com.internous.webproj4.dao&apos; を変更します" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.internous.webproj4.dao" name="com.internousdev.webproj4.dao" qualified="false" references="true" stamp="1519975720353" textual="false" version="1.0"/>
+</session>

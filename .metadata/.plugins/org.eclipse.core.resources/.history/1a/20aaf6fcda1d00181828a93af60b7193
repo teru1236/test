@@ -1,0 +1,17 @@
+package com.internousdev.webproj3.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+import com.internousdev.webproj3.util.DBConnector;
+
+public class InquiryDAO {
+	public int insert(String name,String qtype,String body){
+		int ret = 0;
+		DBConnector db = new DBConnector();
+		Connection con = db.getConnection();
+
+		return ret;
+	}
+}
