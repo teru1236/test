@@ -4,5 +4,7 @@
   <module moduleId="org.eclipse.jst.jee.server:WebProj3" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
   <module moduleId="org.eclipse.jst.jee.server:WebProj2" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
   <module moduleId="org.eclipse.jst.jee.server:WebProj" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
+  <module moduleId="org.eclipse.jst.jee.server:WebProJ5" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
+  <module moduleId="org.eclipse.jst.jee.server:login" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
   <module moduleId="org.eclipse.jst.jee.server:WebproJ4" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
 </modules>
