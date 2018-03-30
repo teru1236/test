@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <modules>
+  <module moduleId="org.eclipse.jst.jee.server:ecsite_template" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
   <module moduleId="org.eclipse.jst.jee.server:HelloJSP" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
+  <module moduleId="org.eclipse.jst.jee.server:ecsite_sample" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
   <module moduleId="org.eclipse.jst.jee.server:WebProj3" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
   <module moduleId="org.eclipse.jst.jee.server:ecsite" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
   <module moduleId="org.eclipse.jst.jee.server:WebProj2" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
   <module moduleId="org.eclipse.jst.jee.server:template" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
+  <module moduleId="org.eclipse.jst.jee.server:HelloServlet" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
   <module moduleId="org.eclipse.jst.jee.server:WebProj" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
   <module moduleId="org.eclipse.jst.jee.server:WebProJ5" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
   <module moduleId="org.eclipse.jst.jee.server:login" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>

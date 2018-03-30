@@ -2,16 +2,19 @@
 <section name="Workbench">
 	<section name="CleanDialogSettings">
 		<item value="901" key="DIALOG_WIDTH"/>
-		<item value="true" key="TOGGLE_SELECTED"/>
-		<item value="378" key="DIALOG_HEIGHT"/>
+		<item value="true" key="BUILD_ALL"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="447" key="DIALOG_HEIGHT"/>
 		<item value="350" key="DIALOG_X_ORIGIN"/>
 		<item value="178" key="DIALOG_Y_ORIGIN"/>
+		<item value="true" key="BUILD_NOW"/>
 	</section>
 	<section name="ExternalProjectImportWizard">
 		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\internousdev\Downloads\ecsample\ecsample\ecsample"/>
 			<item value="C:\Users\internousdev\Downloads\ecsite"/>
 			<item value="C:\Users\internousdev\Desktop\workspace\workspace-murakami"/>
 		</list>
@@ -20,5 +23,8 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
 	</section>
 </section>
