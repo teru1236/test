@@ -1,0 +1,5 @@
+127.0.0.1 - - [05/Apr/2018:13:21:02 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:13:21:05 +0900] "GET /ecsite_sample/ HTTP/1.1" 200 1805
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:13:21:07 +0900] "POST /ecsite_sample/HomeAction.action;jsessionid=873E215227C35DCCCFA190463F485D73 HTTP/1.1" 200 2399
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:13:21:17 +0900] "POST /ecsite_sample/LoginAction.action HTTP/1.1" 200 11581
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:13:21:25 +0900] "POST /ecsite_sample/ItemSearchAction.action HTTP/1.1" 200 5236

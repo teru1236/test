@@ -89,7 +89,7 @@
 			<h3><s:property value="message" escape="false"/></h3>
 		</s:if>
 
-		<s:form action="BuyItemAction">
+		!!<s:form action="BuyItemAction">
 			<table>
 				<s:iterator value="buyItemDTOList">
 

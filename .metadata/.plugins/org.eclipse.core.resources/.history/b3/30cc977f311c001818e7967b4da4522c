@@ -1,8 +1,0 @@
-package com.internous.webproj.action;
-import com.opensymphony.xwork2.ActionSupport;
-
-public class HelloStrutsAction {
-	public String execute(){
-		return SUCCESS;
-	}
-}
